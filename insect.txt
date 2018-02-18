@@ -1,0 +1,5 @@
+insect.txt
+----------
+Insects are a class of invertebrates within the arthropod phylum that
+have a chitinous exoskeleton, a three-part body (head, thorax, and abdomen),
+three pairs of jointed legs, compound eyes, and one pair of antennae.

@@ -1,0 +1,5 @@
+reptile.txt
+-----------
+Reptiles are tetrapod (four-limbed vertebrate) animals in the class
+Reptilia, comprising today's turtles, crocodilians, snakes,
+amphisbaenians, lizards, tuatara, and their extinct relatives.
