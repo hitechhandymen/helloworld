@@ -60,7 +60,7 @@
   <body>
     <!-- Cover page -->
     <amp-story standalone bookend-config-src="bookend.json">
-      <amp-story-page id="cover">
+      <amp-story-page id="cover", auto-advance-after="5s">
         <amp-story-grid-layer template="fill">
           <amp-img src="assets/cover.jpg"
               width="720" height="1280"
@@ -74,7 +74,7 @@
       </amp-story-page>
 
       <!-- Page 1 (Cat): 1 layer (vertical) -->
-      <amp-story-page id="page1">
+      <amp-story-page id="page1" auto-advance-after="5s">
         <amp-story-grid-layer template="vertical">
           <h1>Cats</h1>
           <amp-img src="assets/cat.jpg"
@@ -86,7 +86,7 @@
       </amp-story-page>
 
       <!-- Page 2 (Dog): 2 layers (fill + thirds) -->
-      <amp-story-page id="page2">
+      <amp-story-page id="page2" auto-advance-after="5s">
         <amp-story-grid-layer template="fill">
           <amp-img src="assets/dog.jpg" 
               width="720" height="1280"
